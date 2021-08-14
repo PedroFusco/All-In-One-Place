@@ -485,4 +485,6 @@ unique(fidelidade_hierarquico$CustomerID)
 São 40 clientes, aproximadamente 1% de toda a clientela, esses tem como característica os maiores compras na empresa, tanto em quantidade de produto quanto em quantidade de dinheiro. Os clientes escolhidos são responsáveis por 31,03% de todo o ganho financeiro da empresa e também por 30.39% da quantidade de produtos vendidos. Espera-se que com o início do programa de fidelidade a quantidade de faturamento da empresa aumente, não só com os clientes escolhidos nesse momento, mas também com clientes que podem acabar sendo aderidos no programa. 
 
 O time de marketing pode realizar ações para popularizar o programa de fidelidade, principalmente para países fora do Reino Unido, de forma que novos clientes se sintam incentivados a comprar mais na empresa com a finalidade de serem incluidos no programa.
+
+É importante pontuar que para inserir novos clientes no programa de fidelidade é necessário repetir o processo de clusterização já que este é um modelo de machine learning não supervisionado e, sendo assim, não permite inferências para clientes futuros.
 ---------------------------------------------------------------------------------------------------------
